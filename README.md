@@ -34,16 +34,15 @@ This Python script implements a simple keylogger using the `pynput` library. The
       python Keylogger.py
 
 
-Stop the Keylogger:
-    Press Ctrl+C to stop the keylogger gracefully.
+### Stop the Keylogger:
+  Press Ctrl+C to stop the keylogger gracefully.
 
-Requirements:
-
+###Requirements:
   Python 3.x
   pynput library
 
-Author:
-    Mohan Saikrishna
+## Author:
+  Mohan Saikrishna
 
 
 
